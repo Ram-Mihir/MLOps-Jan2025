@@ -1,1 +1,1 @@
-"""this is an example text file"""
+Replacing the entire content in this branch.
